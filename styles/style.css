@@ -13,7 +13,7 @@ html {
   position: relative;
   display: flex;
   margin: 0;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   background-color: #fec7ee;
   padding: 60px 0 0;
 }
@@ -43,6 +43,7 @@ html {
   letter-spacing: 3.5px;
   text-align: center;
   z-index: 1;
+  font-family: 'Raleway', sans-serif;
 }
 
 .page__title::after {
@@ -66,6 +67,7 @@ html {
   border-radius: 20px;
   padding: 36px 44px;
   box-shadow: 0 12px 0 #000;
+  font-family: 'Raleway', sans-serif;
   font-weight: normal;
   font-size: 35px;
   letter-spacing: 0;
